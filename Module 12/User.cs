@@ -11,7 +11,6 @@ namespace Module_12.User
         public void Userdata()
         {
             User user = new User();
-
         }
         public string Login { get; set; }
         public string Name { get; set; }

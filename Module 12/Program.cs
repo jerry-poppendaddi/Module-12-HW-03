@@ -42,7 +42,6 @@ namespace Module_12
             Console.WriteLine("Purchase our premium subscription if you don't want to see these ads.");
             // Остановка на 3 с
             Thread.Sleep(3000);
-        }
-     
+        }     
     } 
 }
